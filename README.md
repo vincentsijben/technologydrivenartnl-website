@@ -1,1 +1,1 @@
-# technologydrivenartnl-website
+# Redirect repository for technologydrivenart.nl
