@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://www.zuyd.nl/binaries/content/assets/zuyd/over-zuyd/rfc2350-zuyd-csirt.pdf
+Contact: https://www.zuyd.nl/en/about-zuyd/cyber-security
+Contact: https://www.zuyd.nl/algemeen/praktische-informatie/ictsecurity
+Contact: mailto:csirt@zuyd.nl
+Expires: 2025-10-30T23:00:00.000Z
+Encryption: openpgp4fpr:1140715727107ccd9cb9db8ea72f4fa1fb1a41e4
+Preferred-Languages: en, nl
+Canonical:  https://www.technologydrivenart.nl/.well-known/security.txt
+Canonical:  https://technologydrivenart.nl/.well-known/security.txt
+Policy: https://www.zuyd.nl/en/footer/responsible-disclosure
+-----BEGIN PGP SIGNATURE-----
+
+iQJCBAEBCAAsFiEEEUBxVycQfM2cuduOpy9PofsaQeQFAmb1dQIOHGNzaXJ0QHp1
+eWQubmwACgkQpy9PofsaQeStuxAA4hB2JzebU2GrQNORQqrP1xIa/pJ3aHJV/cxN
+Oq2LkysqZ/WXAkEBO1nnA22PTNYq7WOzO6zeQ8+2MDjRIHTOpRZnMc3/gLT16B0q
+fbzf6fgqVpZJ6usZxfbvTdvT3irJmQM0H4MWI19Vcv3kMs1/dAUowA89sSkwYIv9
+x+x2Ncs0L5f0rw+gKBB/CEmlfH+GYDvFXRXUQ+J+rwgnpio08XGLWxsjWHDJmmfw
+8h5G/u4j5n+vlnC2nQzPU4YmSZx8/YNe5KK+zuzS1rLqcACmfEBqMroM0BfWfv7+
+RUZzpl5hJ9LY6hn/D8XHOg9T9cr1HwApDPoaTQYcmIyLf3nthhAAu17MrMpd0F2/
+NPOu3HsWR6hrs9ni50AQe0x9k7P1I+HtxftjVIQScKfDkH5aZtGM+lQE/KQ3QGZ6
+ijt4Fyz2q+B0kiw3mZibz18s+UgTQfNySFQwZWrzeIJb4ux7g2nEsBE1K1vksdRb
+i4viWBSLp7aXmlnkpTmVnuC+wzxy3QKBRWTTZHLX44aSPiPdOeYmQ/JEYDmNH4OL
+sDzZhhRFdZzTvt8QX6nPptagWWx+aRteCKeftvda7A3vQXbQAaHBzNSFBHXtipqt
+Y3zBLVg82ln7X4iRhlxKs04du2lQKk3o4dWh30SHk4VzDr8DtJ+O1UcoK+FKB7us
+itaC05g=
+=IiI1
+-----END PGP SIGNATURE-----
